@@ -1,1 +1,0 @@
-End-to-end analytics project using NYC Yellow Taxi data for data quality assessment, fare prediction, and generous tip classification.
